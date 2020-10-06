@@ -1,0 +1,2 @@
+# ChatServer_2
+可以工作在nginx tcp负载均衡环境的集群聊天系统，基于muduo实现以及Redis中间件 增加了连接池
